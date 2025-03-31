@@ -1,0 +1,7 @@
+#ignore specific build files
+build/
+.vscode/
+
+#ignore openocd .cfg files and vs-code json config files
+*.json
+*.cfg
